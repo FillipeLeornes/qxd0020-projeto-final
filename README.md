@@ -1,6 +1,6 @@
 # :checkered_flag: College-in
 
-Une alunos que estão contratando ou precisando de voluntários/bolsistas para projetos de graduação a quem está buscando as vagas!
+Propõem uma forma mais eficiente para alunos de graduação mostrarem seus projetos e buscarem membros para formação de equipes e equipes multiprofissionais, afim de agilizar a formação dos times e aumentar a qualidade dos projetos.
 
 ## :technologist: Membros da equipe
 
