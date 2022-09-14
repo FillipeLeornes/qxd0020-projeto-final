@@ -4,14 +4,14 @@ Propõem uma forma mais eficiente para alunos de graduação mostrarem seus proj
 
 ## :technologist: Membros da equipe
 
-- Fillipe Leornes - 539015 - Ciencia da computação.
-- Thiago Winvirg - 473160 -Ciencia da computação.
+- Fillipe Leornes - 539015 - Ciência da Computação.
+- Thiago Winvirg - 473160 -Ciência da Computação.
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-- Usuário registrado.
-- Usuário não registrado/aluno.
-- Usuário não registrado/Investidor.
+- Usuário registrado/Aluno.
+- Usuário não registrado
+- Usuário registrado/Investidor.
 
 > Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
 
