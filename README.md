@@ -4,22 +4,22 @@ Propõem uma forma mais eficiente para alunos de graduação mostrarem seus proj
 
 ## :technologist: Membros da equipe
 
-Thiago Winvirg, 473160, Ciencia da computação
-Fillipe Leornes, 539015, Ciencia da computação
+- Fillipe Leornes - 539015 - Ciencia da computação.
+- Thiago Winvirg - 473160 -Ciencia da computação.
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-- Usuario registrado
-- Usuario não registrado
-- Investidores
+- Usuário registrado.
+- Usuário não registrado/aluno.
+- Usuário não registrado/Investidor.
 
 > Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-- Usuário
-- Projeto
-- Universidades
+- Usuário.
+- Projeto.
+- Universidades.
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
