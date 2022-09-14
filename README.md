@@ -1,6 +1,6 @@
-# :checkered_flag: Linkedin para universitarios
+# :checkered_flag: College-in
 
-Uni quem está contratando ou precisando de voluntarios/bolsistas para projetos a quem está buscando as vagas!
+Une alunos que estão contratando ou precisando de voluntários/bolsistas para projetos de graduação a quem está buscando as vagas!
 
 ## :technologist: Membros da equipe
 
@@ -24,8 +24,8 @@ Fillipe Leornes, 539015, Ciencia da computação
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
 - Usuario não registrado: Pode ver propostas de projetos.
-- Usuario Registrado: Pode listar projetos, candidatar para eles e criar novos ou remover os criados por ele e se candidatar a vagas de financiamento.
-- Investidores: Faz tudo que o usuario não registrado faz e pode escolher um projeto para financiar ou criar uma vaga de financiamento.
+- Usuario Registrado: Pode listar projetos, se candidatar para eles e criar novos ou remover os criados por ele e se candidatar a vagas de financiamento.
+- Investidores: Faz tudo que o usuário não registrado faz e pode escolher um projeto para financiar ou anunciar uma área de interesse para que usuários alunos entrem em contato.
 
 ----
 
