@@ -10,8 +10,9 @@ Propõem uma forma mais eficiente para alunos de graduação mostrarem seus proj
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
 - Usuário registrado/Aluno.
-- Usuário não registrado
-- Usuário registrado/Investidor.
+- Usuário não registrado.
+- Usuário registrado/Professor.
+
 
 > Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
 
@@ -19,7 +20,8 @@ Propõem uma forma mais eficiente para alunos de graduação mostrarem seus proj
 
 - Usuário.
 - Projeto.
-- Universidades.
+- Universidade.
+- Categoria.
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
