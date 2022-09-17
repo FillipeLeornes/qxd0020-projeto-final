@@ -25,9 +25,9 @@ Propõem uma forma mais eficiente para alunos de graduação mostrarem seus proj
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-- Usuario não registrado: Pode ver propostas de projetos.
-- Usuario Registrado: Pode listar projetos, se candidatar para eles e criar novos ou remover os criados por ele e se candidatar a vagas de financiamento.
-- Investidores: Faz tudo que o usuário não registrado faz e pode escolher um projeto para financiar ou anunciar uma área de interesse para que usuários alunos entrem em contato.
+- Usuário não registrado: Pode ver propostas de projetos.
+- Usuário Registrado/Aluno: Pode buscar, criar, remover ou candidatar-se para projetos.
+- Usuário Registrado/Professor: Pode postar bolsas e contribuir com projetos de alunos.
 
 ----
 
