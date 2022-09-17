@@ -1,6 +1,6 @@
 # :checkered_flag: College-in
 
-Propõem uma forma mais eficiente para alunos de graduação mostrarem seus projetos e buscarem membros para formação de equipes e equipes multiprofissionais, afim de agilizar a formação dos times e aumentar a qualidade dos projetos.
+Propõem uma forma mais eficiente para alunos de graduação buscarem projetos e membros para formação de equipes e equipes multiprofissionais, afim de agilizar a formação dos times e aumentar a qualidade dos projetos, além de ter um ambiente próprio para postarem seus trabalhos acadêmicos. Professores poderão procurar bolsistas para seus projetos com maior autonomia.
 
 ## :technologist: Membros da equipe
 
